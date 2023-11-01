@@ -7,6 +7,10 @@
 # Copyright (c) 2020 by Andrew D. King
 # 
 
+import sys
+
+sys.path.append("/Users/mac/Desktop/IOT-TPs/python-components/src/main/python")
+
 import logging
 import unittest
 
